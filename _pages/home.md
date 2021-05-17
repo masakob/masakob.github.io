@@ -7,5 +7,3 @@ redirect_from:
   - /home/
   - /home.html
 ---
-
-This is the front page of a website.
