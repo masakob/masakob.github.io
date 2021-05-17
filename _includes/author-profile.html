@@ -71,10 +71,10 @@
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
       {% endif %}
       {% if author.stackoverflowJP %}
-        <li><a href="https://ja.stackoverflow.com/users/{{ author.stackoverflowJP }}" target="_blank" rel="noopener noreferrer"> スタック・オーバーフロー</a></li>
+        <li><a href="https://ja.stackoverflow.com/users/{{ author.stackoverflowJP }}" target="_blank" rel="noopener noreferrer"> Stackoverflow (JP)</a></li>
       {% endif %}
       {% if author.kaggle %}
-        <li><a href="https://www.kaggle.com/{{ author.kaggle }}" target="_blank" rel="noopener noreferrer"> kaggle</a></li>
+        <li><a href="https://www.kaggle.com/{{ author.kaggle }}" target="_blank" rel="noopener noreferrer"> Kaggle</a></li>
       {% endif %}
       {% if author.quora %}
         <li><a href="https://quora.com/profile/{{ author.quora }}" target="_blank" rel="noopener noreferrer"> Quora</a></li>
@@ -84,6 +84,9 @@
       {% endif %}
       {% if author.qiita %}
         <li><a href="https://qiita.com/{{ author.qiita }}" target="_blank" rel="noopener noreferrer"> Qiita</a></li>
+      {% endif %}
+      {% if author.note %}
+        <li><a href="https://note.com/{{ author.note }}" target="_blank" rel="noopener noreferrer"> note</a></li>
       {% endif %}
       {% if author.lastfm %}
         <li><a href="https://lastfm.com/user/{{ author.lastfm }}"><i class="fab fa-fw fa-lastfm-square" aria-hidden="true"></i> Last.fm</a></li>
