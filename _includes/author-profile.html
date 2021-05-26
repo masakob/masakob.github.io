@@ -88,6 +88,12 @@
       {% if author.note %}
         <li><a href="https://note.com/{{ author.note }}" target="_blank" rel="noopener noreferrer"> note</a></li>
       {% endif %}
+      {% if author.amazonus %}
+        <li><a href="https://www.amazon.com/gp/profile/amzn1.account.{{ author.amazonus }}" target="_blank" rel="noopener noreferrer"> Amazon (US)</a></li>
+      {% endif %}
+      {% if author.amazonjp %}
+        <li><a href="https://www.amazon.co.jp/gp/profile/amzn1.account.{{ author.amazonjp }}" target="_blank" rel="noopener noreferrer"> Amazon (JP)</a></li>
+      {% endif %}
       {% if author.lastfm %}
         <li><a href="https://lastfm.com/user/{{ author.lastfm }}"><i class="fab fa-fw fa-lastfm-square" aria-hidden="true"></i> Last.fm</a></li>
       {% endif %}
