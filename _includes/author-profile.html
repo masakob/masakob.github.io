@@ -94,6 +94,21 @@
       {% if author.amazonjp %}
         <li><a href="https://www.amazon.co.jp/gp/profile/amzn1.account.{{ author.amazonjp }}" target="_blank" rel="noopener noreferrer"> Amazon (JP)</a></li>
       {% endif %}
+      {% if author.credly %}
+        <li><a href="https://www.credly.com/users/{{ author.credly }}" target="_blank" rel="noopener noreferrer"> Credly</a></li>
+      {% endif %}
+      {% if author.edx %}
+        <li><a href="https://profile.edx.org/u/{{ author.edx }}" target="_blank" rel="noopener noreferrer"> edX</a></li>
+      {% endif %}
+      {% if author.coursera %}
+        <li><a href="https://www.coursera.org/user/{{ author.coursera }}" target="_blank" rel="noopener noreferrer"> Coursera</a></li>
+      {% endif %}
+      {% if author.microsoftdocs %}
+        <li><a href="https://docs.microsoft.com/users/{{ author.microsoftdocs }}" target="_blank" rel="noopener noreferrer"> Microsoft Docs</a></li>
+      {% endif %}
+      {% if author.datacamp %}
+        <li><a href="https://www.datacamp.com/profile/{{ author.datacamp }}" target="_blank" rel="noopener noreferrer"> DataCamp</a></li>
+      {% endif %}
       {% if author.lastfm %}
         <li><a href="https://lastfm.com/user/{{ author.lastfm }}"><i class="fab fa-fw fa-lastfm-square" aria-hidden="true"></i> Last.fm</a></li>
       {% endif %}
