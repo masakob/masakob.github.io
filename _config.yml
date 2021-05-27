@@ -106,20 +106,20 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "15869989/masahiro-kobayashi" # http://stackoverflow.com/users/123456/username
-  stackoverflowJP  : "45189/masahiro-kobayashi"
-  kaggle           : "masahirokobayashi"
-  quora            : "Masahiro-Kobayashi-2"
-  quoraJP          : "Masahiro-Kobayashi"
-  qiita            : "masakob"
-  note             : "masakob"
-  amazonus         : "AH5LL4YDOCAMRGKDZEWLIKXAVKVA"
-  amazonjp         : "AGXOURPHTFFGYLUPQ3EG3V32ATOA"
-  credly           : "masahiro-kobayashi"
-  edx              : "masahiro-kobayashi"
-  coursera         : "38adfdd80da748cef04f8be655348314"
-  microsoftdocs    : "kobayashimasahiro-9107"
-  datacamp         : "masahiro-kobayashi"
+  stackoverflow    : #"15869989/masahiro-kobayashi" # http://stackoverflow.com/users/123456/username
+  stackoverflowJP  : #"45189/masahiro-kobayashi"
+  kaggle           : #"masahirokobayashi"
+  quora            : #"Masahiro-Kobayashi-2"
+  quoraJP          : #"Masahiro-Kobayashi"
+  qiita            : #"masakob"
+  note             : #"masakob"
+  amazonus         : #"AH5LL4YDOCAMRGKDZEWLIKXAVKVA"
+  amazonjp         : #"AGXOURPHTFFGYLUPQ3EG3V32ATOA"
+  credly           : #"masahiro-kobayashi"
+  edx              : #"masahiro-kobayashi"
+  coursera         : #"38adfdd80da748cef04f8be655348314"
+  microsoftdocs    : #"kobayashimasahiro-9107"
+  datacamp         : #"masahiro-kobayashi"
   steam            :
   tumblr           :
   twitter          : "MasaKobysh" # "replacethistwitterhandle"
