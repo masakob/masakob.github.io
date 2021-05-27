@@ -4,10 +4,12 @@ title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /home/
+  - /home.html
 ---
+
 ## Profile Pages
+
 [Twitter](https://twitter.com/MasaKobysh)
 [GitHub](https://github.com/masakob)
 [Stackoverflow](https://www.stackoverflow.com/users/15869989/masahiro-kobayashi)
