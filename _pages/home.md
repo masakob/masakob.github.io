@@ -12,7 +12,8 @@ redirect_from:
 
   * [Twitter](https://twitter.com/MasaKobysh){:target="_blank" rel="noopener noreferrer"}
   * [GitHub](https://github.com/masakob){:target="_blank" rel="noopener noreferrer"}
-  <!---
+
+<!---
   * [Stackoverflow](https://www.stackoverflow.com/users/15869989/masahiro-kobayashi){:target="_blank" rel="noopener noreferrer"}
   * [Stackoverflow (JP)](https://ja.stackoverflow.com/users/45189/masahiro-kobayashi){:target="_blank" rel="noopener noreferrer"}
   * [Kaggle](https://www.kaggle.com/masahirokobayashi){:target="_blank" rel="noopener noreferrer"}
@@ -29,4 +30,4 @@ redirect_from:
   * [DataCamp](https://www.datacamp.com/profile/masahiro-kobayashi){:target="_blank" rel="noopener noreferrer"}
   * [Goodreads](https://www.goodreads.com/user/show/134758020-masakob){:target="_blank" rel="noopener noreferrer"}
   * [Booklog](https://booklog.jp/users/masakob/profile){:target="_blank" rel="noopener noreferrer"}
-  -->
+-->
