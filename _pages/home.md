@@ -30,4 +30,6 @@ redirect_from:
   * [DataCamp](https://www.datacamp.com/profile/masahiro-kobayashi){:target="_blank" rel="noopener noreferrer"}
   * [Goodreads](https://www.goodreads.com/user/show/134758020-masakob){:target="_blank" rel="noopener noreferrer"}
   * [Booklog](https://booklog.jp/users/masakob/profile){:target="_blank" rel="noopener noreferrer"}
+  * [IMDb](https://www.imdb.com/user/ur133143087/){:target="_blank" rel="noopener noreferrer"}
+  * [Unsplash](https://unsplash.com/@masakob){:target="_blank" rel="noopener noreferrer"}
 -->
